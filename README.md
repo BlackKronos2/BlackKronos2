@@ -5,8 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackKronos2&layout=compact&show_icons=true&theme=midnight-purpl)
 
 ###  Something interesting.:
-| Название | Инструменты |
-| :--------: | :-------: |
+| Название |
+| :--------: |
 |[Менеджер обмена файлами на протоколе TCP](https://github.com/BlackKronos2/TCP_FileManager)
 |[Дин. UI по данным SQL базы данных](https://github.com/BlackKronos2/SQL_MenuBuilder)
 |[Реализация простого TDS для двух игроков](https://github.com/BlackKronos2/UnityTopDown2DExample)
