@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackKronos2&layout=compact&show_icons=true&theme=midnight-purpl)
 
 ###  Something interesting.:
-| Название |
+| ... |
 | :--------: |
 |[Менеджер обмена файлами на протоколе TCP](https://github.com/BlackKronos2/TCP_FileManager)
 |[Дин. UI по данным SQL базы данных](https://github.com/BlackKronos2/SQL_MenuBuilder)
